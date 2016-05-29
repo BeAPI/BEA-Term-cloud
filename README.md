@@ -1,2 +1,2 @@
-# BEA-Termcloud
-Display a beautiful termcloud
+# BEA-Term-cloud
+Display a beautiful term cloud
