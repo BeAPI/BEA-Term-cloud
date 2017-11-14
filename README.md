@@ -8,6 +8,9 @@ Display a beautiful term cloud
 
 ## Changelog ##
 
+### 1.0.1
+* Add composer.json file
+
 ### 1.0.0
 * 30 May 2016
 * Initial
