@@ -1,7 +1,7 @@
 <?php
 /*
  Plugin Name: BEA - Term Cloud
- Version: 1.0.0
+ Version: 1.0.1
  Plugin URI: http://www.beapi.fr
  Description: Allow in visual composer and widgets (to be done) to display a beautiful term cloud.
  Tags: tag, tags, terms, term, taxonomy, taxonomies, visual composer
